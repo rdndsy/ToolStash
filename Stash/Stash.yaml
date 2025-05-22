@@ -18,7 +18,7 @@ dns:
   fake-ip-filter: ['+.lan', '*', '+.local', '+.cmpassport.com', 'id6.me', 'open.e.189.cn', 'mdn.open.wo.cn', 'opencloud.wostore.cn', 'auth.wosms.cn', '+.10099.com.cn']
 
 # > 订阅信息展示
-subscribe-url:https://txt.rdn.us.kg/hy2.txt?token=txt
+subscribe-url: https://txt.rdn.us.kg/hy2.txt?token=txt
 
 # > 远程服务器
 proxy-providers:
