@@ -24,7 +24,7 @@ subscribe-url: https://txt.rdn.us.kg/hy2.txt?token=txt
 proxy-providers:
   Subscribe:
     interval: 86400
-    url: http://your-service-provider
+    url: https://txt.rdn.us.kg/hy2.txt?token=txt
     benchmark-timeout: 5
     benchmark-url: http://1.1.1.1/generate_204
 
